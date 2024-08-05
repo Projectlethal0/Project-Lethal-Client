@@ -10,6 +10,4 @@ Step 4: Goto whereever you installed the .rar file and drag and drop the folder 
 
 Step 5: Run the "run.bat" file and press any button when a cmd appears
 
-And thats it
-
-If you do need help with it read the "Readme.txt" file
+# If you do need help with it read the "Readme.txt" file
