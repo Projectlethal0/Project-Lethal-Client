@@ -1,5 +1,3 @@
-# Project-Lethal-Client
-
 # Steps to downloading:
 
 Step 1: Click on the .rar file from the releases tab
